@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+	<Employee-Id>10110050</Employee-Id>
+	<Employee-Name>Bhaskar</Employee-Name>
+	<Employee-Salary>10000.0</Employee-Salary>
+	<Projects>
+		<Project-Name>Onpassive</Project-Name>
+		<Project-Name>Gofounders</Project-Name>
+		<Project-Name>SupportAdmin</Project-Name>
+	</Projects>
+	<versions>
+		<entry>
+			<key>Onpassive</key>
+			<value>2</value>
+		</entry>
+		<entry>
+			<key>Gofounders</key>
+			<value>3</value>
+		</entry>
+		<entry>
+			<key>SupportAdmin</key>
+			<value>1</value>
+		</entry>
+	</versions>
+</employee>
